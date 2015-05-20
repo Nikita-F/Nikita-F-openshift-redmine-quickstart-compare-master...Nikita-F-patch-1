@@ -84,12 +84,12 @@ default:
   email_delivery:
     delivery_method: :smtp
     smtp_settings:
-      address: smtp.example.net
+      address: smtp.list.ru
       port: 25
-      domain: example.net
+      domain: mail.ru
       authentication: :login
-      user_name: "redmine@example.net"
-      password: "redmine"
+      user_name: "loginov.2016@list.ru"
+      password: "Tikana999"
 
   # Absolute path to the directory where attachments are stored.
   # The default is the 'files' directory in your Redmine instance.
