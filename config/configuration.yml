@@ -88,8 +88,8 @@ default:
       port: 25
       domain: mail.ru
       authentication: :login
-      user_name: "loginov.2016@list.ru"
-      password: "Tikana999"
+      user_name: "example6@list.ru"
+      password: "password"
 
   # Absolute path to the directory where attachments are stored.
   # The default is the 'files' directory in your Redmine instance.
